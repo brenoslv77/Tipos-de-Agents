@@ -15,12 +15,6 @@ habilidade-automacao/	Instruções de uma habilidade voltada a perguntas sobre a
 
 Algumas pastas são planejadas e podem ainda não conter um projeto. A estrutura será atualizada conforme o desenvolvimento avançar.
 
-Habilidade de automação residencial
-A pasta habilidade-automacao/ contém um arquivo SKILL.md com orientações para um agente responder em português brasileiro sobre temas como iluminação, climatização, cortinas, controle por voz, benefícios da automação, redes mesh, orçamentos e instalação.
-
-O arquivo também orienta o agente a não inventar preços, especificações técnicas ou serviços quando não houver informações suficientes.
-
-Esse arquivo é um conjunto de instruções; sozinho, não implementa uma integração com a AWS nem executa funções. Seu uso dependerá do agente ou da ferramenta com que for integrado futuramente.
 Tecnologias e serviços
 As tecnologias variam conforme cada projeto. O agent-basico, por exemplo, utiliza:
 - HTML5
@@ -32,6 +26,8 @@ Como explorar
 2. Leia o README.md específico, quando disponível.
 3. Siga as instruções daquele projeto para executá-lo.
 4. Consulte as limitações e melhorias planejadas antes de considerar uma funcionalidade como implementada.
-Status
+
+### Status
 Este repositório está em desenvolvimento e acompanha minha evolução nos estudos de IA, agentes e AWS. A documentação distingue funcionalidades já implementadas de ideias e etapas futuras.
-Projeto de estudos e aprendizado contínuo.
+
+#### Projeto de estudos e aprendizado contínuo.
